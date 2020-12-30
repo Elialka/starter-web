@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eli Alkhazov	eli.alkhazov@gmail.com	@awesomeDude
 
 # THANKS
 
