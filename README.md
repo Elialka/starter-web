@@ -16,7 +16,7 @@ From here to there
 
 ## How To Contribute
 
-One more time
+Please fork this repository and then issue Pull Request for review
 
 ### Copyright
 
