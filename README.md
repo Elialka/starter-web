@@ -17,3 +17,7 @@ From here to there
 ## How To Contribute
 
 One more time
+
+### Copyright
+
+2020 Git.Training
